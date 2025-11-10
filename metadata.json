@@ -1,0 +1,7 @@
+{
+  "name": "Lumir Real Estate Advisor",
+  "description": "An intelligent real estate assistant powered by Gemini, helping you explore properties, understand the market, and find your perfect home in Dubai.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
